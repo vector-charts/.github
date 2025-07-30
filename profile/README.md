@@ -2,6 +2,8 @@
 
 ## Vector Charts
 
-Add Nautical Charts to your Web App - The easiest way to add beautiful, informative vector nautical charts to your maritime-related product.
+**Add Nautical Charts to your Web App**. Vector Charts is the easiest way to add beautiful, informative vector nautical charts to your maritime-related product.
 
-https://vectorcharts.com/
+We provide a managed API service which distributes nautical chart data using Mapbox Vector Tiles, the modern standard for map data.
+
+Get started at https://vectorcharts.com/
