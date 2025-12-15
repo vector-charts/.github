@@ -7,3 +7,5 @@
 We provide a managed API service which distributes nautical chart data using Mapbox Vector Tiles, the modern standard for map data.
 
 Get started at https://vectorcharts.com/
+
+Vector Charts is a product by @zydro-marine.
