@@ -8,4 +8,4 @@ We provide a managed API service which distributes nautical chart data using Map
 
 Get started at https://vectorcharts.com/
 
-Vector Charts is a product by @zydro-marine.
+Vector Charts is a product by [Zydro Marine Technologies, Inc.](https://zydromarine.com/).
